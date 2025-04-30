@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Talan Greeno | Portfolio</title>
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
+
+<header>
+
+  <h1>Talan Greeno</h1>
+
+  <p>First year freshman college student</p>
+
+</header>
+
+
+
+<section>
+
+  <h2>About Me</h2>
+
+  <p>Hello! I'm Talan Greeno, a first-year college student at the University of Wisconsin Green Bay, who loves writing about fun and scary stories!</p>
+
+</section>
+
+
+
+<section>
+
+  <h2>Projects</h2>
+
+  <div class="projects">
+
+    <div class="project-card">
+
+      <h3>Rock Paper Scissors</h3>
+
+      <p>A simple rock-paper-scissors game where you compete against the computer. It's a classic!</p>
+
+      <button onclick="location.href='#'">View Project</button>
+
+    </div>
+
+    <div class="project-card">
+
+      <h3>Guess the Number</h3>
+
+      <p>Try to guess the randomly chosen number — the computer gives you hints!</p>
+
+      <button onclick="location.href='#'">View Project</button>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section>
+
+  <h2>Contact Me</h2>
+
+  <div class="contact-form" style="text-align: center;">
+
+    <p>Email: <a href="mailto:greetr19@uwgb.edu">greetr19@uwgb.edu</a></p>
+
+    <p>Text me: <a href="sms:+1234567890">+1 (234) 567 8910</a></p>
+
+  </div>
+
+</section>
+
+
+
+<footer>
+
+  <p>© 2025 Talan Greeno. All rights reserved.</p>
+
+</footer>
+
+
+
+</body>
+
+</html>
